@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html, body{
+  width: 100%;
+  height: 100%;
+  background-color: #cce2ea;
+}
+body{
+  overflow-x: hidden;
+}
+:root{
+  --background:#cce2ea;
+  --pCem-1: #FF9900; 
+  --pCem-2: #FFC800;
+  --pCem-3: #FFE000;
+  --pCem-4: #FFC800;
+  --pCem-5: #B8F500;
+  --pCem-6: #1d6d19;
+  --pCem-7: #95E214;
+  --pCem-8: #015e01;
+  --pBermudez-c: #20BDB3;
+  --pBermudez-v: #AC0DA5;
+  --pSiem-n: #FE5E02;
+  --pSiem-a: #405262;
+}

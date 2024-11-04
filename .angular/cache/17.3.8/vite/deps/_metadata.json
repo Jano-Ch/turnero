@@ -1,0 +1,85 @@
+{
+  "hash": "28ec8c87",
+  "configHash": "175449ed",
+  "lockfileHash": "9d353ca3",
+  "browserHash": "ac85d4f6",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "95c45507",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "c1979417",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "968bab30",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "e5b306f0",
+      "needsInterop": false
+    },
+    "gsap": {
+      "src": "../../../../../node_modules/gsap/index.js",
+      "file": "gsap.js",
+      "fileHash": "62d281b7",
+      "needsInterop": false
+    },
+    "gsap/MotionPathPlugin": {
+      "src": "../../../../../node_modules/gsap/MotionPathPlugin.js",
+      "file": "gsap_MotionPathPlugin.js",
+      "fileHash": "9b88ea48",
+      "needsInterop": false
+    },
+    "gsap/ScrollTrigger": {
+      "src": "../../../../../node_modules/gsap/ScrollTrigger.js",
+      "file": "gsap_ScrollTrigger.js",
+      "fileHash": "504db49e",
+      "needsInterop": false
+    },
+    "gsap/all": {
+      "src": "../../../../../node_modules/gsap/all.js",
+      "file": "gsap_all.js",
+      "fileHash": "cd5c8ec5",
+      "needsInterop": false
+    },
+    "lenis": {
+      "src": "../../../../../node_modules/lenis/dist/lenis.mjs",
+      "file": "lenis.js",
+      "fileHash": "addcb6ee",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-OTIDJNZL": {
+      "file": "chunk-OTIDJNZL.js"
+    },
+    "chunk-ZEWG4BKI": {
+      "file": "chunk-ZEWG4BKI.js"
+    },
+    "chunk-24DIF7WR": {
+      "file": "chunk-24DIF7WR.js"
+    },
+    "chunk-ZWKVVRCY": {
+      "file": "chunk-ZWKVVRCY.js"
+    },
+    "chunk-HO5KVI7P": {
+      "file": "chunk-HO5KVI7P.js"
+    },
+    "chunk-QSDJBZJY": {
+      "file": "chunk-QSDJBZJY.js"
+    },
+    "chunk-J4B6MK7R": {
+      "file": "chunk-J4B6MK7R.js"
+    }
+  }
+}
