@@ -35,13 +35,22 @@ h4{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    margin: 20px;
+    align-items: center;
+    margin: 30px;
     padding: 10px;
-    border-radius: 30px;
     border: solid 4px var(--pBermudez-v);
 }
 .reservedShift:hover, .takenShift:hover{
     background-color: var(--pBermudez-v);
     color: white;
-    transition: 0.8s;
+    transition: 0.3s;
+}
+.reservedShift:hover > .deleteShift{
+    color: white;
+}
+.deleteShift{
+    background-color: transparent;
+    border: 2px solid var(--pBermudez-v);
+    padding: 7px;
+    font-size: 15px;
 }

@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+main{
+    font-family: "Roboto", serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    gap: 10px;
+}
+h2{
+    font-size: 60px;
+    margin: 7% 0 3% 0;
+}
+
+form{
+    height: 65vh;
+    width: 30%;
+    padding: 30px;
+    border: solid 4px var(--pBermudez-c);
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+input{
+    background-color: transparent;
+    color: var(--pBermudez-c);
+    padding: 10px;
+    font-size: 15px;
+    border: solid 3px var(--pBermudez-c);
+    width: 80%;
+    outline: none;
+}
+input[type="submit"]{
+    background-color: var(--pBermudez-c);
+    color: white;
+    padding: 10px;
+    font-size: 15px;
+}
+select{
+    background-color: transparent;
+    color: var(--pBermudez-c);
+    padding: 10px;
+    font-size: 15px;
+    border: solid 3px var(--pBermudez-c);
+    width: 80%;
+    outline: none;
+}
