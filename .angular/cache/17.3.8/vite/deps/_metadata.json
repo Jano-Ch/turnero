@@ -1,61 +1,61 @@
 {
-  "hash": "570eb53a",
-  "configHash": "a1fa4cd5",
+  "hash": "194d91c9",
+  "configHash": "8f9f7c25",
   "lockfileHash": "9d353ca3",
-  "browserHash": "87d43f58",
+  "browserHash": "7a74468f",
   "optimized": {
     "@angular/common": {
       "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
       "file": "@angular_common.js",
-      "fileHash": "c2f09456",
+      "fileHash": "0cfe6995",
       "needsInterop": false
     },
     "@angular/core": {
       "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "3b7e31f7",
+      "fileHash": "66ff962b",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "25fdd159",
+      "fileHash": "b469c128",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "d3fa2e5b",
+      "fileHash": "e5997455",
       "needsInterop": false
     },
     "gsap": {
       "src": "../../../../../node_modules/gsap/index.js",
       "file": "gsap.js",
-      "fileHash": "233b5d4f",
+      "fileHash": "4c5b1d9b",
       "needsInterop": false
     },
     "gsap/MotionPathPlugin": {
       "src": "../../../../../node_modules/gsap/MotionPathPlugin.js",
       "file": "gsap_MotionPathPlugin.js",
-      "fileHash": "47bcb059",
+      "fileHash": "cd4b1071",
       "needsInterop": false
     },
     "gsap/ScrollTrigger": {
       "src": "../../../../../node_modules/gsap/ScrollTrigger.js",
       "file": "gsap_ScrollTrigger.js",
-      "fileHash": "a041a362",
+      "fileHash": "489763b4",
       "needsInterop": false
     },
     "gsap/all": {
       "src": "../../../../../node_modules/gsap/all.js",
       "file": "gsap_all.js",
-      "fileHash": "35a000da",
+      "fileHash": "697198ac",
       "needsInterop": false
     },
     "lenis": {
       "src": "../../../../../node_modules/lenis/dist/lenis.mjs",
       "file": "lenis.js",
-      "fileHash": "9a98f670",
+      "fileHash": "a6a99827",
       "needsInterop": false
     }
   },
