@@ -5,30 +5,38 @@ main{
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
     height: 100vh;
     gap: 10px;
 }
 
 h2{
     font-size: 60px;
+    margin: 7% 0 3% 0;
 }
 .form{
-    color: white;
-    /* height: 30vh; */
+    height: 48vh;
+    width: 30%;
     padding: 30px;
-    background-color: var(--pCem-8);
-    border-radius: 30px;
-    display: grid;
-    grid-template-columns: 2fr 3fr;
-    justify-items: start;
+    border: solid 4px var(--pBermudez-c);
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     gap: 20px;
 }
 input{
-    background-color: var(--pCem-8);
-    border-radius: 20px;
+    background-color: transparent;
+    color: var(--pBermudez-c);
+    padding: 10px;
+    font-size: 15px;
+    border: solid 3px var(--pBermudez-c);
+    width: 80%;
+    outline: none;
+}
+input[type="submit"]{
+    background-color: var(--pBermudez-c);
     color: white;
-    padding: 5px;
-    border: solid 2px white;
-    width: 100%;
+    padding: 10px;
+    font-size: 15px;
 }
