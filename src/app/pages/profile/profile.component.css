@@ -38,10 +38,10 @@ h4{
     align-items: center;
     margin: 30px;
     padding: 10px;
-    border: solid 4px var(--pBermudez-v);
+    border: solid 4px var(--pBermudez-c);
 }
 .reservedShift:hover, .takenShift:hover{
-    background-color: var(--pBermudez-v);
+    background-color: var(--pBermudez-c);
     color: white;
     transition: 0.3s;
 }
@@ -50,7 +50,19 @@ h4{
 }
 .deleteShift{
     background-color: transparent;
-    border: 2px solid var(--pBermudez-v);
+    border: 2px solid var(--pBermudez-c);
     padding: 7px;
     font-size: 15px;
+}
+.deleteShift:focus{
+    background-color: var(--background);
+    color: var(--pBermudez-c) !important;
+    /* border: solid 2px var(--background);
+    color: white !important; */
+}
+.titleArrow{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
 }
