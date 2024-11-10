@@ -22,7 +22,7 @@ import {
   Tween,
   gsap
 } from "./chunk-ZWKVVRCY.js";
-import "./chunk-J4B6MK7R.js";
+import "./chunk-LJ4VCL4A.js";
 
 // node_modules/gsap/index.js
 var gsapWithCSS = gsap.registerPlugin(CSSPlugin) || gsap;

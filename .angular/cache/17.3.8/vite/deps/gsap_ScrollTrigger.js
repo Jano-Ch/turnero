@@ -1,7 +1,7 @@
 import {
   ScrollTrigger
 } from "./chunk-QSDJBZJY.js";
-import "./chunk-J4B6MK7R.js";
+import "./chunk-LJ4VCL4A.js";
 export {
   ScrollTrigger,
   ScrollTrigger as default

@@ -1,4 +1,4 @@
-import "./chunk-J4B6MK7R.js";
+import "./chunk-LJ4VCL4A.js";
 
 // node_modules/lenis/dist/lenis.mjs
 function clamp(t2, i, e) {

@@ -1,85 +1,100 @@
 {
-  "hash": "f1f53a3a",
-  "configHash": "52135834",
-  "lockfileHash": "9d353ca3",
-  "browserHash": "071b13ee",
+  "hash": "a18e20b2",
+  "configHash": "bf06013a",
+  "lockfileHash": "7d4dfa03",
+  "browserHash": "466aed54",
   "optimized": {
-    "@angular/common": {
-      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
-      "file": "@angular_common.js",
-      "fileHash": "1d04ae6f",
-      "needsInterop": false
-    },
-    "@angular/core": {
-      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
-      "file": "@angular_core.js",
-      "fileHash": "0dc0776a",
+    "@angular/fire/app": {
+      "src": "../../../../../node_modules/@angular/fire/fesm2022/angular-fire-app.mjs",
+      "file": "@angular_fire_app.js",
+      "fileHash": "d0c816b1",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "a8e11d42",
+      "fileHash": "d7c0b0a5",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "1d60ded3",
+      "fileHash": "583f6855",
       "needsInterop": false
     },
-    "gsap": {
-      "src": "../../../../../node_modules/gsap/index.js",
-      "file": "gsap.js",
-      "fileHash": "54fee927",
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "8c900d5c",
+      "needsInterop": false
+    },
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "d054fdb8",
+      "needsInterop": false
+    },
+    "@angular/fire/auth": {
+      "src": "../../../../../node_modules/@angular/fire/fesm2022/angular-fire-auth.mjs",
+      "file": "@angular_fire_auth.js",
+      "fileHash": "c78473de",
       "needsInterop": false
     },
     "gsap/MotionPathPlugin": {
       "src": "../../../../../node_modules/gsap/MotionPathPlugin.js",
       "file": "gsap_MotionPathPlugin.js",
-      "fileHash": "e39e178b",
-      "needsInterop": false
-    },
-    "gsap/ScrollTrigger": {
-      "src": "../../../../../node_modules/gsap/ScrollTrigger.js",
-      "file": "gsap_ScrollTrigger.js",
-      "fileHash": "9f0b485f",
+      "fileHash": "c471b7c0",
       "needsInterop": false
     },
     "gsap/all": {
       "src": "../../../../../node_modules/gsap/all.js",
       "file": "gsap_all.js",
-      "fileHash": "7d7377f4",
+      "fileHash": "700aae22",
+      "needsInterop": false
+    },
+    "gsap": {
+      "src": "../../../../../node_modules/gsap/index.js",
+      "file": "gsap.js",
+      "fileHash": "c0cd7142",
+      "needsInterop": false
+    },
+    "gsap/ScrollTrigger": {
+      "src": "../../../../../node_modules/gsap/ScrollTrigger.js",
+      "file": "gsap_ScrollTrigger.js",
+      "fileHash": "b9e3b41e",
       "needsInterop": false
     },
     "lenis": {
       "src": "../../../../../node_modules/lenis/dist/lenis.mjs",
       "file": "lenis.js",
-      "fileHash": "1bccfddb",
+      "fileHash": "29d001cc",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-ZWKVVRCY": {
-      "file": "chunk-ZWKVVRCY.js"
-    },
     "chunk-HO5KVI7P": {
       "file": "chunk-HO5KVI7P.js"
+    },
+    "chunk-ZWKVVRCY": {
+      "file": "chunk-ZWKVVRCY.js"
     },
     "chunk-QSDJBZJY": {
       "file": "chunk-QSDJBZJY.js"
     },
-    "chunk-OTIDJNZL": {
-      "file": "chunk-OTIDJNZL.js"
+    "chunk-JIUPRKJE": {
+      "file": "chunk-JIUPRKJE.js"
     },
-    "chunk-ZEWG4BKI": {
-      "file": "chunk-ZEWG4BKI.js"
+    "chunk-LAMEWCSF": {
+      "file": "chunk-LAMEWCSF.js"
     },
-    "chunk-24DIF7WR": {
-      "file": "chunk-24DIF7WR.js"
+    "chunk-RGOXCXHR": {
+      "file": "chunk-RGOXCXHR.js"
     },
-    "chunk-J4B6MK7R": {
-      "file": "chunk-J4B6MK7R.js"
+    "chunk-XVGL3F7K": {
+      "file": "chunk-XVGL3F7K.js"
+    },
+    "chunk-LJ4VCL4A": {
+      "file": "chunk-LJ4VCL4A.js"
     }
   }
 }

@@ -1,4 +1,16 @@
 import {
+  Matrix2D,
+  MotionPathPlugin,
+  _getCTM,
+  _getDocScrollLeft,
+  _getDocScrollTop,
+  _setDoc,
+  getGlobalMatrix,
+  rawPathToString,
+  stringToRawPath,
+  transformRawPath
+} from "./chunk-HO5KVI7P.js";
+import {
   Back,
   Bounce,
   CSSPlugin,
@@ -39,18 +51,6 @@ import {
   wrapYoyo
 } from "./chunk-ZWKVVRCY.js";
 import {
-  Matrix2D,
-  MotionPathPlugin,
-  _getCTM,
-  _getDocScrollLeft,
-  _getDocScrollTop,
-  _setDoc,
-  getGlobalMatrix,
-  rawPathToString,
-  stringToRawPath,
-  transformRawPath
-} from "./chunk-HO5KVI7P.js";
-import {
   Observer,
   ScrollTrigger,
   _getProxyProp,
@@ -63,7 +63,7 @@ import {
   _scrollers,
   _vertical
 } from "./chunk-QSDJBZJY.js";
-import "./chunk-J4B6MK7R.js";
+import "./chunk-LJ4VCL4A.js";
 
 // node_modules/gsap/CustomEase.js
 var gsap2;
